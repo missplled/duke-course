@@ -9,7 +9,9 @@
 			"extensions": [
 				"rust-lang.rust-analyzer",
 				"vadimcn.vscode-lldb",
-				"GitHub.copilot"
+				"GitHub.copilot",
+				"ms-vscode-remote.remote-containers",
+				"fill-labs.dependi"
 			]
 		}
 	}
